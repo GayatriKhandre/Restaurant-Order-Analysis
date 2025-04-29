@@ -1,7 +1,7 @@
 # Restaurant Order Analysis
 
 ## Overview  
-This project analyzes restaurant order and menu data to find out the most and least popular items, dish prices, and customer spending habits.
+This project looks at restaurant sales and menu data to find out which items are most popular, pricing trends, and customer ordering patterns. Using SQL, I combined and cleaned the data to help improve the menu and make better business decisions. The goal was to use data to make the restaurant more efficient and customer-friendly.
 
 ## Data Used  
 - **menu_items**: Contains information about each dish (name, price, category)  
